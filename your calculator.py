@@ -11,4 +11,4 @@ elif op=="-":
 elif op=="/":
     print(num1/num2)
 else:
-    print("ERROR")
+    print("Invalid Number")
