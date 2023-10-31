@@ -1,1 +1,0 @@
-# This is a simple calculator game where you'll be given operators and you can calculate the numbers
