@@ -1,7 +1,7 @@
 print("Your Calculator")
-num1= float(input("Write your first number: "))
-op=input("Choose your operator: +,-,*,/ \n")
-num2= float(input("Write your second number: "))
+num1= float(input("Write your First Number: "))
+op=input("Choose any operator: +,-,*,/ \n")
+num2= float(input("Write your Second number: "))
 if op=="*":
     print(num1*num2)
 elif op=="+":
